@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Calculator = styled.div`
     margin: 3rem auto;
-    width: 35rem;
+    width: 20rem;
 
     background: var(--background-color);
 
